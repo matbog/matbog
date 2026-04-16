@@ -1,4 +1,4 @@
-## Hi, I’m [Mateusz BOGDAN][website] 👋
+### Hi, I’m [Mateusz BOGDAN][website] 👋
 
 I'm a Research Engineer at [AREP][arep], in the [L'hypercube][arep-lhyp] team, with a PhD in Civil Engineering from ENS Paris-Saclay.
 
