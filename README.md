@@ -1,4 +1,6 @@
-👋 Hi, I’m Mateusz — a Research Engineer at [AREP]([arep](https://www.arep.fr/en/)) with a PhD in Civil Engineering from ENS Paris-Saclay.
+###👋 Hi, I’m Mateusz 
+
+I'm a Research Engineer at [AREP](https://www.arep.fr/en/) with a PhD in Civil Engineering from ENS Paris-Saclay.
 
 🌍 My work sits at the intersection of **urban microclimate**, **building physics**, **air qualit**y, and **computational modeling**.
 
@@ -11,3 +13,14 @@ My scientific contributions are visible below [![ORCID](https://img.shields.io/s
 [![](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white
 )]([https://scholar.google.com/citations?user=N0Gr490AAAAJ](https://www.researchgate.net/profile/Mateusz-Bogdan))
 
+🎓 Research Interests
+
+* Urban scale climatic studies
+* Radiative View Factors
+* Air Quality in underground train stations
+
+
+### Connect with me 
+[<img align="left" alt="Mateusz BODGA | website" width="22px" src="https://img.icons8.com/material-rounded/24/555555/user-male-circle.png" />][https://matbog.github.io]
+[<img align="left" alt="Mateusz BOGDAN | Google Scholar" width="22px" src="https://img.icons8.com/color/48/000000/google-scholar--v3.png" />][https://scholar.google.fr/citations?user=N0Gr490AAAAJ]
+[<img align="left" alt="Mateusz BOGDAN | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][https://www.linkedin.com/in/bogdanmateusz/]
