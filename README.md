@@ -1,7 +1,6 @@
+##👋 Hi, I’m [Mateusz BOGDAN][website]
 
-👋 Hi, I’m [Mateusz BOGDAN][website]
-
-I'm a Research Engineer at [AREP](https://www.arep.fr/en/) with a PhD in Civil Engineering from ENS Paris-Saclay.
+I'm a Research Engineer at [AREP][arep], in the [L'hypercube][arep-lhyp] team, with a PhD in Civil Engineering from ENS Paris-Saclay.
 
 🌍 My work sits at the intersection of **urban microclimate**, **building physics**, **air qualit**y, and **computational modeling**.
 
@@ -28,5 +27,7 @@ I'm a Research Engineer at [AREP](https://www.arep.fr/en/) with a PhD in Civil E
 [<img align="left" alt="Mateusz BOGDAN | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
 [website]: https://matbog.github.io
+[arep]: https://www.arep.fr/en/
+[arep-lhyp]: https://lhypercube.arep.fr/en/
 [scholar]: https://scholar.google.com/citations?user=N0Gr490AAAAJ
 [linkedin]: https://www.linkedin.com/in/bogdanmateusz/
