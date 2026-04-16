@@ -19,8 +19,13 @@ My scientific contributions are visible below [![ORCID](https://img.shields.io/s
 * Radiative View Factors
 * Air Quality in underground train stations
 
-
+---
 ### Connect with me 
-[<img align="left" alt="Mateusz BODGA | website" width="22px" src="https://img.icons8.com/material-rounded/24/555555/user-male-circle.png" />][https://matbog.github.io]
-[<img align="left" alt="Mateusz BOGDAN | Google Scholar" width="22px" src="https://img.icons8.com/color/48/000000/google-scholar--v3.png" />][https://scholar.google.fr/citations?user=N0Gr490AAAAJ]
-[<img align="left" alt="Mateusz BOGDAN | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][https://www.linkedin.com/in/bogdanmateusz/]
+
+[<img align="left" alt="Mateusz BODGA | website" width="22px" src="https://img.icons8.com/material-rounded/24/555555/user-male-circle.png" />][website]
+[<img align="left" alt="Mateusz BOGDAN | Google Scholar" width="22px" src="https://img.icons8.com/color/48/000000/google-scholar--v3.png" />][scholar]
+[<img align="left" alt="Mateusz BOGDAN | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+
+[website]: https://matbog.github.io
+[scholar]: https://scholar.google.com/citations?user=N0Gr490AAAAJ
+[linkedin]: https://www.linkedin.com/in/bogdanmateusz/
