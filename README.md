@@ -9,7 +9,7 @@ I'm a Research Engineer at [AREP][arep], in the [L'hypercube][arep-lhyp] team, w
 
 🎓 Research Interests
 
-* Urban scale climatic studies
+* Urban scale climatic studies (solar irradiance, urban winds, thermal behavior of urban spaces, thermal comfort)
 * Radiative View Factors
 * Air Quality in underground train stations
 
